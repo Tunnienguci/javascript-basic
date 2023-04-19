@@ -783,6 +783,6 @@ button.addEventListener("click", function() {
 ```
 
 [HTML & CSS Basics](https://www.notion.so/HTML-CSS-Basics-7b3cacd3ae9b45f2a81a8b883ea29b5d)
-[JavaScript Basics](https://www.notion.so/tunnienguci/2419c17c58574ecfb4d22484e25661f6?v=67a76b5a9b01473fb3e49916b09174ef#f72e428934c04f22aded461ff1597566)
+[JavaScript Basics](https://tunnienguci.notion.site/tunnienguci/2419c17c58574ecfb4d22484e25661f6?v=67a76b5a9b01473fb3e49916b09174ef)
 
 **Author**: Tunnienguci
